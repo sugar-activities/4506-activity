@@ -1,0 +1,7 @@
+[Activity]
+name = CantaBichos
+activity_version = 2
+bundle_id = org.laptop.CantaBichos
+icon = CantaBichos
+show_launcher = yes
+exec = sugar-activity CantaBichos.CantaBichos
